@@ -6,7 +6,7 @@ Welcome! This repository is a collection of various utilities, scripts, and cons
 
 | Project | Description | Language / Tech Stack |
 | :--- | :--- | :--- |
-| **[Termulin](./Termulin)** | A fast and aesthetic theme for Windows PowerShell with 3 preset styles and a boot animation. | PowerShell, BAT |
+| **[Termulin](./https://github.com/forXsis/my_tools/tree/Termulin)** | A fast and aesthetic theme for Windows PowerShell with 3 preset styles and a boot animation. | PowerShell, BAT |
 
 ## 🚀 How to Use
 Each project is located in its own directory and includes a dedicated `README.md` with detailed setup and usage instructions. Navigate to the project folder to learn more.
