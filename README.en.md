@@ -1,4 +1,4 @@
-[🇷🇺 Читать на русском](./README.md)
+[🇷🇺 Читать на русском](https://github.com/forXsis/my_tools/blob/Termulin/README.ru.md)
 
 # Termulin ❯
 
