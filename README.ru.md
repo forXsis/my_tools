@@ -1,4 +1,4 @@
-[🇬🇧 Read in English]([./README.en.md](https://github.com/forXsis/my_tools/blob/Termulin/README.en.md))
+[🇬🇧 Read in English](https://github.com/forXsis/my_tools/blob/Termulin/README.en.md)
 
 # Termulin ❯
 
